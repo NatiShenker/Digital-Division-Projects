@@ -1,0 +1,30 @@
+
+{
+    "projects": [
+      {
+        "projectName": "Carmel Carpets",
+        "dateStarted": "2023-01-15",
+        "projectManager": "Chana Sarel"
+      },
+      {
+        "projectName": "Police National College",
+        "dateStarted": "2023-02-28",
+        "projectManager": "Assaf Giva'ati"
+      },
+      {
+        "projectName": "Mivtach Simon",
+        "dateStarted": "2023-03-10",
+        "projectManager": "Alex Levittin"
+      },
+      {
+        "projectName": "LiveDns",
+        "dateStarted": "2023-04-05",
+        "projectManager": "Yariv Harush"
+      },
+      {
+        "projectName": "Dan-el",
+        "dateStarted": "2023-05-20",
+        "projectManager": "Udi Katz"
+      }
+    ]
+  }

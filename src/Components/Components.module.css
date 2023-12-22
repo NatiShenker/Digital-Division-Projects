@@ -1,0 +1,56 @@
+
+.loginContainer {
+    /* padding: 4em; */
+}
+
+.header {
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 0.5em 1em;
+    justify-content: center;
+    gap: 1em;
+    margin-top: 1em;
+}
+
+.welcome {
+    display: flex;
+    flex-direction: column;
+    gap: 10em;
+}
+
+.paper {
+    box-shadow: 1px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 1px 1px 3px 1px rgba(0,0,0,0.12);
+}
+
+.dialog {
+    background-color: unset;
+}
+
+.dialogText {
+    margin: 4em;
+    text-align: center;
+    /* padding: 2em; */
+}
+
+.formControlSelect {
+    width: 10em;
+}
+
+.sortListItem {
+    /* //.css-14lo706 */
+    margin: 0;
+}
+
+.tableRow {
+    display: flex;
+}
+
+.tableCell {
+    flex: 0 0 32%;
+}
+
+@media screen and (max-width: 400px) {
+    .tableCell {
+        flex: 0 0 25%;
+    }
+}
